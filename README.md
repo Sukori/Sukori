@@ -10,5 +10,4 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ... my skill issue.
 - 💬 Ask me about ... wait, too many people already bloat my mailbox at work. Don't ask me anything!
 - 📫 How to reach me: Depends on your distance. A trebuchet seems reasonable, but you may also need an intercontinental missile.
-- 😄 Pronouns: I / you / He / she / we / you again / they (what is this question anyway? Do I need to prove that I know basic grammar on my github profile? Weird...)
 - ⚡ Fun fact: Most laughter isn't because things are funny.
