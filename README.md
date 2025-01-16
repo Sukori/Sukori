@@ -1,13 +1,8 @@
 ## Hi there 👋
-
-**Sukori/Sukori** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on "Philosophers" : A 42-Lausanne school project
+- 🔭 I’m currently working on "Philosophers" : A 42-Lausanne school project derived from the [https://en.m.wikipedia.org/wiki/Dining_philosophers_problem](dining philosophers problem) 
 - 🌱 I’m currently learning at [42Lausanne](https://42lausanne.ch/)
-- 👯 I’m looking to collaborate on a Pokemon-like video game.
-- 🤔 I’m looking for help with rust.
+- 👯 I’m collaborating on a secret game project with friends.
+- 🤔 If Apple champions privacy but tracks every step you take, is it protecting your data or just writing the world's most secure autobiography about you?
 - 💬 Ask me about cats.
-- 📫 How to reach me: Depends on your distance. A trebuchet seems reasonable, but you may also need an intercontinental missile. On last resort, you can use my [website](https://technophil.dev)
+- 📫 How to reach me: Depends on your distance. A trebuchet will work, but you may also need an intercontinental missile. On last resort, you can use my [website](https://technophil.dev)
 - ⚡ Fun fact: Most laughter isn't because things are funny.
