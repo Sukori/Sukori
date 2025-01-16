@@ -1,5 +1,5 @@
 ## Hi there 👋
-- 🔭 I’m currently working on "Philosophers" : A 42-Lausanne school project derived from the [https://en.m.wikipedia.org/wiki/Dining_philosophers_problem](dining philosophers problem) 
+- 🔭 I’m currently working on "Philosophers" : A 42-Lausanne school project derived from the [dining philosophers problem](https://en.m.wikipedia.org/wiki/Dining_philosophers_problem) 
 - 🌱 I’m currently learning at [42Lausanne](https://42lausanne.ch/)
 - 👯 I’m collaborating on a secret game project with friends.
 - 🤔 If Apple champions privacy but tracks every step you take, is it protecting your data or just writing the world's most secure autobiography about you?
