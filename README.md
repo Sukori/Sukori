@@ -1,5 +1,5 @@
 ## Hi there 👋
-- 🔭 **Currently building**: [webserv](https://github.com/Sukori/webserv) with the amazing crew at [neon-05](https://github.com/neon-05). 42 Lausanne’s “write‑your‑own‑web‑server from scratch” challenge keeps my coffee level at 110 %. 
+- 🔭 **Currently building**: Inception. 42 Lausanne's docker in a VM project to serve a self-deployed webstack. Why we should use wordpress keeps me awake at night.
 - 🌱 **Learning**: Diving deeper into systems programming at [42 Lausanne](https://42lausanne.ch/). 
 - 🤔 **Thought experiment**: Privacy‑by‑design should sound like a locksmith’s oath, not a data‑farmer’s sales pitch.
 - 🐱 **Cat‑talk**: Ask me anything about feline physics, cat‑nap optimization, or why every keyboard needs a lap cat.
