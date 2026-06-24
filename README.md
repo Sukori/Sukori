@@ -1,5 +1,5 @@
 ## Hi there 👋
-- 🔭 **Currently building**: Inception. 42 Lausanne's docker in a VM project to serve a self-deployed webstack. Why we should use wordpress keeps me awake at night.
+- 🔭 **Currently building**: Trancendance, the last and final boss of the 42 common-core. This is a five-dev project that makes us build a webapp with social interactions, data persistance in full-stack joyfulness.
 - 🌱 **Learning**: Diving deeper into systems programming at [42 Lausanne](https://42lausanne.ch/). 
 - 🤔 **Thought experiment**: Privacy‑by‑design should sound like a locksmith’s oath, not a data‑farmer’s sales pitch.
 - 🐱 **Cat‑talk**: Ask me anything about feline physics, cat‑nap optimization, or why every keyboard needs a lap cat.
