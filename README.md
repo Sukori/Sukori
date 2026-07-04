@@ -1,5 +1,5 @@
 ## Hi there 👋
-- 🔭 **Currently building**: Trancendance, the last and final boss of the 42 common-core. This is a five-dev project that makes us build a webapp with social interactions, data persistance in full-stack joyfulness.
+- 🔭 **Currently building**: [Trancendance](https://github.com/LaSturn/Transcendence), the last and final boss of the 42 common-core. The boyz are [LaSturn](https://github.com/LaSturn), [lsadikaj](https://github.com/lsadikaj), [sedto](https://github.com/sedto), [jimoz77](https://github.com/Jimoz77), and we're making an online PONG! game. We'll tackle together the joy of high FPS, live sync between clients, data storage, sleek UI and blockchain validated rankings. Good coffee will support the human stack ;D
 - 🌱 **Learning**: Diving deeper into systems programming at [42 Lausanne](https://42lausanne.ch/). 
 - 🤔 **Thought experiment**: Privacy‑by‑design should sound like a locksmith’s oath, not a data‑farmer’s sales pitch.
 - 🐱 **Cat‑talk**: Ask me anything about feline physics, cat‑nap optimization, or why every keyboard needs a lap cat.
